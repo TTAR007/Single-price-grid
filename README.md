@@ -64,5 +64,5 @@ const proudOfThisFunc = () => {
 ## Author
 
 - Website - Not available
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/TTAR007)
-- Twitter - [@yourusername](https://www.twitter.com/T_TAR_007)
+- Frontend Mentor - [@TTAR007](https://www.frontendmentor.io/profile/TTAR007)
+- Twitter - [@T_TAR_007](https://www.twitter.com/T_TAR_007)
