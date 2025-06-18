@@ -1,0 +1,15 @@
+@media (min-width: 37.5rem) {
+    main {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .community_box {
+        grid-column: 1 / 3;
+    }
+
+    .community_box,
+    .subscription_box,
+    .why-us_box {
+        padding: 2.5rem 2rem;
+    }
+}
